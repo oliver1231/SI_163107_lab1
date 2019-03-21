@@ -1,0 +1,25 @@
+2. git init lab1
+3. cd lab1
+git add l1.txt
+5. git commit -m "Initial commit" l1.txt
+7. git commit -m "modify l1.txt" l1.txt
+9. git remote add origin https://github.com/oliver1231/SI_163107_lab1.git
+git remote -v
+git push --set-upstream origin master
+git push
+10. git push
+11. git add .
+git reset HEAD l1.txt
+git reset --hard
+12. git branch logging
+13. git checkout logging
+git add log.txt
+git commit -m "nov fajl log.txt"
+git push --set-upstream origin logging
+git push
+14. git push
+15. git checkout master
+git merge logging
+git push
+16. git branch allcommands
+git push -u origin allcommands
