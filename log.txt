@@ -1,0 +1,11 @@
+commit f8a24741f602a89ae171618fd5833014eee37572 (HEAD -> logging, origin/master, master)
+Author: unknown <oliver.brankovikj@students.finki.ukim.mk>
+Date:   Thu Mar 21 09:40:25 2019 +0100
+
+    modify l1.txt
+
+commit f61c5a901dca581d300ba1be503f97eee4e8f03e
+Author: unknown <oliver.brankovikj@students.finki.ukim.mk>
+Date:   Thu Mar 21 09:39:18 2019 +0100
+
+    Initial commit
